@@ -18,5 +18,9 @@ object myObject {
       case bla if bla > 2 => "yey"
       case blaa if blaa > 1 => "nop"
     }
+    
+    var bla = 12
+    
+    bla
   }
 }
