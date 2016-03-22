@@ -5,7 +5,9 @@ class Batata {
   //Error ProcedureDeclarationChecker
   def foo() {
     var ola = 33
-    42 + 2
+    42 + 2 + 44
+    var yey = 22
+    33
   }
 
   def betterFoo() = {
