@@ -5,5 +5,6 @@ object myObject {
     var oi = 3 + 5
     
     println(oi)
+    println("how u doin?")
   }
 }
