@@ -6,5 +6,9 @@ object myObject {
     println("entradas")    
     println(oi)
     println("batatas com arroz")
+
+    println("yeyyey")
+    println(oi)
+    println("how u doin?")
   }
 }
