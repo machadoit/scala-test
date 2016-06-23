@@ -8,6 +8,8 @@ class Batata {
     42 + 2 + 44
     var yey = 22
     33
+    
+    var moreIssues = 1234
   }
 
   def betterFoo() = {
