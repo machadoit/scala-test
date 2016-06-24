@@ -10,6 +10,7 @@ class Batata {
     33
     
     var moreIssues = 1234
+    var moarmoar = 123124124
   }
 
   def betterFoo() = {
