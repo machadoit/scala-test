@@ -3,6 +3,7 @@ import scala.util.{Failure, Success, Try}
 
 object myObject {
   def MyFuntion(bla: Int) {
+    var ola = 123
     Try(1 / 0) match {
       case Success(content) => "yey"
       case Failure(fail) => "nop"
