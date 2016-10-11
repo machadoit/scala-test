@@ -8,7 +8,7 @@ class Batata {
     42 + 2 + 44
     var yey = 22
     33
-    
+    var moremoreStuff = 1234
     var moreIssues = 1234
   }
 
