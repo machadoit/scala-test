@@ -6,6 +6,8 @@ object myObject {
 
     var ssmoreIssues = 1234
 
+    var moar = 8574
+    
     println("yeyyey")
     println(oi)
     println("how u doin?")
