@@ -2,6 +2,7 @@ import scala.util.{Failure, Success, Try}
 
 
 object myObject {
+  var cenas=123
   def MyFuntion(bla: Int) {
     Try(1 / 0) match {
       case Success(content) => "yey"
