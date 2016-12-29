@@ -2,6 +2,7 @@ import scala.util.{Failure, Success, Try}
 
 
 object myObject {
+  var cenas=123
   def MyFuntion(bla: Int) {
     var ola = 123
     var adeus = 123
@@ -30,5 +31,9 @@ object myObject {
       case bla if bla > 2 => "yey"
       case blaa if blaa > 1 => "nop"
     }
+    
+    var bla = 12
+    
+    bla
   }
 }
