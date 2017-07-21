@@ -5,6 +5,7 @@ object myObject {
     var oi = 3 + 5
 
     var ssmoreIssues = 1234
+    var cool = 123
 
     var moar = 8574
     
