@@ -8,6 +8,8 @@ object myObject {
 
     var moar = 8574
     
+    var anotherIssue = 1234
+    
     var myNull = null
     
     println("yeyyey")
