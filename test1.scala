@@ -3,6 +3,7 @@ import scala.util.{Failure, Success, Try}
 
 object myObject {
   var cenas=123
+  var hurray=1231231
   var another=1234124
   def MyFuntion(bla: Int) {
     var ola = 123
