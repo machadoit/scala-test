@@ -6,6 +6,7 @@ object myObject {
   var hurray=1231231
   var another=1234124
   var extraIssue=1231231
+  var yetAnother=1231231333
   def MyFuntion(bla: Int) {
     var ola = 123
     var adeus = 123
