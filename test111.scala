@@ -4,3 +4,4 @@ var doItLive = 12334
 var anotherTest = 123123
 
 var oneMore = 234123
+var zzz = 123
