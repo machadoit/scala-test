@@ -2,6 +2,7 @@ import scala.util.{Failure, Success, Try}
 
 
 object myObject {
+  var howyoudoin=123123
   var cenas=123
   var another=1234124
   def MyFuntion(bla: Int) {
