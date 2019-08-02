@@ -18,6 +18,7 @@ object myObject {
         var ola = 123
     var adeus = 123
         var ola = 123
+    var coolStoryBro=123123
     var adeus = 123
     var wtv = 567
     Try(1 / 0) match {
