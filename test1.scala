@@ -9,6 +9,7 @@ object myObject {
   def MyFuntion(bla: Int) {
     var ola = 123
     var adeus = 123
+    var yo= 123
         var ola = 123
     var adeus = 123
         var ola = 123
