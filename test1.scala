@@ -20,6 +20,7 @@ object myObject {
         var ola = 123
     var adeus = 123
     var wtv = 567
+    var qqqwe = 928349
     Try(1 / 0) match {
       case Success(content) => "yey"
       case Failure(fail) => "nop"
