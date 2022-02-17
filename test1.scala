@@ -15,6 +15,7 @@ object myObject {
     var adeus = 123
         var ola = 123
     var adeus = 123
+    var soEstaLinha = 123
         var ola = 123
     var adeus = 123
         var ola = 123
