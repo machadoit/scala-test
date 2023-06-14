@@ -13,7 +13,7 @@ object myObject {
     }
 
     List(1, 2, 3).collectFirst {
-      case bla if bla > 2 => "yey"
+      case bla if bla > 2 => "yeeeeeeey"
       case blaa if blaa > 1 => "nop"
     }
 
